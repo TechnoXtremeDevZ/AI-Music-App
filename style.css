@@ -1,0 +1,33 @@
+﻿#note-heading-a {
+    font-size: 15.36px;
+    color: black;
+}
+
+#note-heading-b {
+    font-size: 14.5px;
+    color:black;
+}
+
+#name-heading {
+    width: 100%;
+}
+
+body {
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', sans-serif;
+}
+
+button {
+    margin: 17.2px;
+    font-family: 'Franklin Gothic Medium', sans-serif;
+    width: 120px;
+}
+
+canvas {
+    border-width: 5px;
+    border-style: solid;
+    border-color: azure;
+    background-color: black;
+    border-radius: 20px;
+    margin-top: 150px;
+}
